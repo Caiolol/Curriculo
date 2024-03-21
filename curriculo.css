@@ -43,6 +43,7 @@ body
     border-bottom: 1px solid rgba(255,255,255,0.2);
      
 }
+
 .profileText .imgBx{
     position: relative;
     width: 200px;
@@ -93,9 +94,14 @@ object-fit: cover;
     position: relative;
     list-style: none;
     margin: 10px 0;
+   
+    
+}
+.clickable{
     cursor: pointer;
     
 }
+
 .contato ul li .icon{
     display: inline-block;
     width: 30px;
